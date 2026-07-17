@@ -1,0 +1,774 @@
+/* ===========================
+   RESET
+=========================== */
+
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+}
+
+html{
+    scroll-behavior:smooth;
+}
+
+body{
+    font-family:Arial, Helvetica, sans-serif;
+    background:#fffaf7;
+    color:#4a3d39;
+    line-height:1.7;
+}
+
+/* ===========================
+   CONTAINER
+=========================== */
+
+.conteudo{
+    width:90%;
+    max-width:1100px;
+    margin:0 auto;
+    text-align:center;
+}
+
+/* ===========================
+   HERO
+=========================== */
+.hero{
+
+    background:linear-gradient(180deg,#fffdfc 0%,#fff7f3 45%,#fef0ea 100%);
+
+    min-height:100vh;
+
+    display:flex;
+
+    justify-content:center;
+
+    align-items:center;
+
+    text-align:center;
+
+    padding:70px 20px;
+
+}
+
+.logo{
+    width:500px;
+    max-width:90%;
+    display:block;
+    margin:0 auto 25px;
+}
+.hero h1{
+    font-size:52px;
+    color:#7b4e43;
+    line-height:1.2;
+    margin-bottom:25px;
+}
+
+.subtitulo{
+    font-size:24px;
+    color:#6b5a55;
+    max-width:800px;
+    margin:0 auto 40px;
+}
+
+/* ===========================
+   BOTÕES
+=========================== */
+
+.botao,
+.botao2,
+.botao3{
+
+    display:inline-block;
+
+    background:#18C75A;
+
+    color:#ffffff;
+
+    text-decoration:none;
+
+    padding:18px 42px;
+
+    border-radius:50px;
+
+    font-size:20px;
+
+    font-weight:bold;
+
+    margin:12px;
+
+    transition:all .3s ease;
+
+    box-shadow:0 10px 30px rgba(24,199,90,.35);
+
+}
+
+.botao:hover,
+.botao2:hover,
+.botao3:hover{
+
+    background:#10A846;
+
+    transform:translateY(-3px);
+
+    box-shadow:0 14px 35px rgba(16,168,70,.45);
+
+}
+/* ===========================
+   VÍDEO
+=========================== */
+
+.video{
+
+    padding:70px 20px;
+
+    background:#fff;
+
+}
+
+.video h2{
+
+    font-size:42px;
+
+    color:#7b4e43;
+
+    margin-bottom:25px;
+
+}
+
+.video-container{
+
+    position:relative;
+
+    width:100%;
+
+    max-width:1050px;
+
+    margin:0 auto;
+
+    padding-bottom:56.25%;
+
+    height:0;
+
+    overflow:hidden;
+
+    border-radius:20px;
+
+    box-shadow:0 15px 35px rgba(0,0,0,.15);
+
+}
+
+.video-container iframe{
+
+    position:absolute;
+
+    left:0;
+
+    top:0;
+
+    width:100%;
+
+    height:100%;
+
+}
+
+.texto{
+
+    font-size:23px;
+
+    color:#555;
+
+    max-width:850px;
+
+    margin:40px auto;
+
+    line-height:1.8;
+
+}
+
+/* ===========================
+   PROGRAMA
+=========================== */
+
+.programa{
+
+    background:#fdf2ec;
+
+    padding:70px 20px;
+
+}
+
+.programa h2{
+
+    font-size:42px;
+
+    color:#7b4e43;
+
+    margin-bottom:25px;
+
+}
+
+.cards{
+
+    display:flex;
+
+    justify-content:center;
+
+    flex-wrap:wrap;
+
+    gap:30px;
+
+}
+
+.card{
+
+    background:#fff;
+
+    width:250px;
+
+    padding:35px 25px;
+
+    border-radius:18px;
+
+    box-shadow:0 10px 30px rgba(0,0,0,.08);
+
+    transition:.3s;
+
+}
+
+.card:hover{
+
+    transform:translateY(-8px);
+
+}
+
+.card h3{
+
+    margin:20px 0;
+
+    color:#7b4e43;
+
+    font-size:24px;
+
+}
+
+.card p{
+
+    font-size:18px;
+
+    color:#555;
+
+}
+/* ===========================
+   SOBRE
+=========================== */
+
+.sobre{
+
+    padding:70px 20px;
+
+    background:#ffffff;
+
+}
+
+.sobre h2{
+
+    font-size:42px;
+
+    color:#7b4e43;
+
+    margin-bottom:25px;
+
+}
+
+.sobre p{
+
+    max-width:900px;
+
+    margin:20px auto;
+
+    font-size:22px;
+
+    color:#555;
+
+    line-height:1.9;
+
+}
+
+/* ===========================
+   SLOGAN
+=========================== */
+
+.slogan{
+
+    background:#f8efe9;
+
+    padding:60px 20px;
+
+}
+
+.slogan h2{
+
+    font-size:42px;
+
+    color:#7b4e43;
+
+    margin:10px 0;
+
+    font-weight:bold;
+
+}
+
+.slogan p{
+
+    margin-top:35px;
+
+    font-size:28px;
+
+    letter-spacing:4px;
+
+    color:#c58b63;
+
+    font-weight:bold;
+
+}
+
+.linha{
+
+    width:120px;
+
+    height:3px;
+
+    background:#c58b63;
+
+    margin:25px auto;
+
+}
+
+/* ===========================
+   INTRODUÇÃO
+=========================== */
+
+.introducao{
+
+    padding:70px 20px;
+
+    background:#fffaf7;
+
+}
+
+.introducao h2{
+
+    font-size:42px;
+
+    color:#7b4e43;
+
+    margin-bottom:25px;
+
+}
+
+.introducao p{
+
+    max-width:900px;
+
+    margin:20px auto;
+
+    font-size:22px;
+
+    color:#555;
+
+    line-height:1.9;
+
+}
+
+/* ===========================
+   CTA
+=========================== */
+
+.cta{
+
+    background:#7b4e43;
+
+    color:#fff;
+
+    padding:70px 20px;
+
+}
+
+.cta h2{
+
+    font-size:42px;
+
+    margin-bottom:25px;
+
+    color:#fff;
+
+}
+
+.cta p{
+
+    max-width:800px;
+
+    margin:0 auto 40px;
+
+    font-size:22px;
+
+}
+
+.botao3{
+
+    background:#18C75A;
+
+    color:#ffffff;
+
+}
+
+.botao3:hover{
+
+    background:#10A846;
+
+}
+
+/* ===========================
+   RODAPÉ
+=========================== */
+
+footer{
+
+    background:#3f302c;
+
+    color:#fff;
+
+    padding:35px 20px;
+
+    text-align:center;
+
+}
+
+footer p{
+
+    margin:8px 0;
+
+}
+/* ===========================
+   PREÇO PARCELA
+=========================== */
+
+.preco-parcela{
+
+    display:flex;
+    flex-direction:column;
+    align-items:center;
+    margin:20px 0;
+
+}
+
+
+.vezes{
+
+    font-family:'Montserrat',sans-serif;
+    font-size:22px;
+    font-weight:700;
+    color:#222;
+    line-height:1;
+
+}
+
+
+.linha-preco{
+
+    display:flex;
+    align-items:flex-end;
+
+}
+
+
+.moeda{
+
+    font-family:'Montserrat',sans-serif;
+    font-size:22px;
+    font-weight:700;
+    color:#222;
+    margin-right:8px;
+    padding-bottom:12px;
+
+}
+
+
+.valor{
+
+    font-family:'Montserrat',sans-serif;
+    font-size:88px;
+    font-weight:900;
+    color:#18C75A;
+    line-height:.85;
+    letter-spacing:-4px;
+
+}
+/* ===========================
+   RESPONSIVO
+=========================== */
+
+@media(max-width:768px){
+
+.logo{
+    width:260px;
+}
+
+/* HERO */
+
+.hero{
+    min-height:auto;
+    padding:60px 20px;
+}
+
+.hero h1{
+    font-size:36px;
+}
+
+.subtitulo{
+    font-size:20px;
+}
+
+/* SLOGAN */
+
+.slogan{
+    padding:45px 20px;
+}
+
+.img-slogan{
+
+    width:150% !important;
+
+    max-width:none !important;
+
+    position:relative;
+
+    left:-20% !important;
+
+    display:block;
+
+}
+   .slogan .logo{
+    width:180px !important;
+    max-width:70%;
+    margin:0 auto;
+}
+
+/* TÍTULOS */
+
+.video h2,
+.programa h2,
+.sobre h2,
+.introducao h2,
+.cta h2{
+    font-size:30px;
+}
+
+/* TEXTOS */
+
+.texto,
+.sobre p,
+.introducao p,
+.cta p{
+    font-size:19px;
+}
+
+/* CARDS */
+
+.cards{
+    flex-direction:column;
+    align-items:center;
+}
+
+.card{
+    width:100%;
+    max-width:340px;
+}
+
+/* BOTÕES */
+
+.botao,
+.botao2,
+.botao3{
+    width:100%;
+    max-width:360px;
+    padding:16px 20px;
+    font-size:18px;
+    margin:10px auto;
+}
+/* PREÇO NO CELULAR */
+
+.preco-parcela{
+
+    align-items:center;
+
+}
+
+
+.vezes{
+
+    font-size:22px;
+
+}
+
+
+.moeda{
+
+    font-size:18px;
+    padding-bottom:8px;
+    margin-right:6px;
+
+}
+
+
+.valor{
+
+    font-size:62px !important;
+    letter-spacing:-2px;
+
+}
+}
+/* ===========================
+   IMAGEM DO SLOGAN
+=========================== */
+
+.img-slogan{
+
+    display:block;
+
+    width:100%;
+
+    max-width:none;
+
+    margin:0 auto 35px;
+
+    height:auto;
+
+}
+/* AUTORIDADE */
+
+.autoridade{
+
+display:block;
+
+text-align:center;
+
+margin:25px 0 35px;
+
+font-size:18px;
+
+font-weight:600;
+
+color:#7b4e43;
+
+}
+
+.estrela{
+
+color:#D4AF37;
+
+font-size:20px;
+
+margin-right:6px;
+
+vertical-align:middle;
+
+}
+/* TODOS OS BOTÕES DO SITE */
+
+a.botao,
+a.botao2,
+a.botao3,
+button{
+
+    background:#18C75A !important;
+
+    color:#ffffff !important;
+
+    border:none;
+
+    box-shadow:0 10px 30px rgba(24,199,90,.35);
+
+}
+
+
+a.botao:hover,
+a.botao2:hover,
+a.botao3:hover,
+button:hover{
+
+    background:#10A846 !important;
+
+    transform:translateY(-3px);
+
+}
+/* PREÇO NO FUNDO MARROM */
+
+.preco-marrom .vezes,
+.preco-marrom .moeda{
+
+    color:#ffffff;
+
+}
+/* LISTA DE BENEFÍCIOS */
+
+.lista-beneficios{
+
+    list-style:none;
+
+    padding:0;
+
+    margin:30px auto;
+
+    max-width:520px;
+
+}
+.lista-beneficios li{
+    display:flex;
+    align-items:flex-start;
+    justify-content:flex-start;
+    gap:10px;
+    margin:14px 0;
+    font-size:22px;
+    color:#ffffff !important;
+    line-height:1.6;
+    text-align:left;
+}
+.check{
+
+    color:#FFFFFF !important;
+
+    font-size:22px;
+
+    font-weight:bold;
+
+}
+.slogan-container{
+
+    max-width:1400px;
+
+    width:94%;
+
+}
+/* AJUSTE FINAL IMAGEM SLOGAN CELULAR */
+
+@media(max-width:768px){
+
+    .slogan{
+        overflow:hidden;
+    }
+
+    .slogan-container{
+        width:100%;
+        max-width:100%;
+        overflow:hidden;
+    }
+
+.img-slogan{
+    width:150% !important;
+    max-width:none !important;
+    margin-left:-28% !important;
+    display:block;
+}
+}

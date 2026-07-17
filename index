@@ -1,0 +1,1247 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+
+<head>
+
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<title>Libertaas | Jornada de Autocura e Inteligência Emocional</title>
+
+<meta name="description" content="Jornada Libertaas: autocura, inteligência emocional e transformação para mulheres.">
+
+<link rel="stylesheet" href="style.css">
+
+<!-- META PIXEL -->
+<script>
+!function(f,b,e,v,n,t,s)
+{if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+if(!f._fbq)f._fbq=n;
+n.push=n;
+n.loaded=!0;
+n.version='2.0';
+n.queue=[];
+t=b.createElement(e);
+t.async=!0;
+t.src=v;
+s=b.getElementsByTagName(e)[0];
+s.parentNode.insertBefore(t,s)}
+(window, document,'script',
+'https://connect.facebook.net/en_US/fbevents.js');
+
+fbq('init','1550540626079653');
+fbq('track','PageView');
+</script>
+<link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@600;700;800;900&display=swap" rel="stylesheet">
+</head>
+
+<body>
+
+<header class="hero">
+
+<div class="conteudo">
+
+<img src="./assets/logooficial2.png"
+class="logo"
+alt="Libertaas">
+
+<h1>
+Você ama seus filhos...<br>
+Mas será que esqueceu de você?
+</h1>
+
+<p class="subtitulo">
+Uma Jornada de Autocura, Inteligência Emocional e Liberdade Emocional.
+</p>
+
+<a href="#video" class="botao">
+▶ ASSISTIR AO VÍDEO
+</a>
+
+<br><br>
+
+</div>
+
+</header>
+
+<!-- VÍDEO -->
+
+<section id="video" class="video">
+
+<div class="conteudo">
+
+<h2>
+Assista ao vídeo antes de tomar sua decisão
+</h2>
+
+<div class="video-container">
+
+<iframe
+src="https://www.youtube.com/embed/-HKxUT3Ox5U"
+title="Vídeo Libertaas"
+frameborder="0"
+allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+allowfullscreen>
+</iframe>
+
+</div>
+
+<p class="texto">
+
+Existe uma mulher incrível dentro de você esperando para voltar a viver.
+Descubra como romper a dependência emocional e reconstruir sua identidade.
+
+<div class="autoridade">
+
+<span class="estrela">★</span>
+
+Desde 2014 transformando a vida de mulheres em todo o Brasil
+
+</div>
+</p>
+
+<a href="https://pay.hotmart.com/U106577321Q?off=qzjy54fc&bid=1783477115113"
+class="botao2">
+
+QUERO COMEÇAR MINHA TRANSFORMAÇÃO
+
+</a>
+
+</div>
+
+</section>
+
+<!-- PROGRAMA -->
+
+<section class="programa">
+
+<div class="conteudo">
+<img src="https://i.ibb.co/YBpqXxgG/libertaas3-convertido-de-jfif.jpg"
+alt="Transformação Mentoria Libertaas"
+style="
+display:block;
+width:100%;
+max-width:420px;
+height:auto;
+margin:35px auto;
+border-radius:20px;
+">
+<h2>
+Como funciona a Jornada Libertaas?
+</h2>
+
+<div class="cards">
+
+<div class="card">
+
+<div style="text-align:center;margin-bottom:18px;">
+
+<img src="https://i.ibb.co/GfJkQb3B/image.webp"
+alt="Encontros ao Vivo"
+style="width:70px;height:70px;">
+
+</div>
+
+<h3>4 Encontros ao Vivo</h3>
+
+<p>
+Um encontro por semana para transformação emocional.
+</p>
+
+</div>
+
+<div class="card">
+
+<div style="text-align:center;margin-bottom:18px;">
+
+<img src="https://i.ibb.co/B5ScpX6T/acompanhamento-diario-icon.webp"
+alt="Acompanhamento Diário"
+style="width:70px;height:70px;">
+
+</div>
+
+<h3>Acompanhamento Diário</h3>
+
+<p>
+Você não estará sozinha durante toda a jornada.
+</p>
+
+</div>
+
+<div class="card">
+
+<div style="text-align:center;margin-bottom:18px;">
+
+<img src="https://i.ibb.co/3Y14v0ZT/image-2.webp"
+alt="Desafios Semanais"
+style="width:70px;height:70px;">
+
+</div>
+
+<h3>Desafios Semanais</h3>
+
+<p>
+Práticas simples para mudança real na sua rotina.
+</p>
+
+</div>
+
+<div class="card">
+
+<div style="text-align:center;margin-bottom:18px;">
+
+<img src="https://i.ibb.co/Gf9FSyNj/image-3.webp"
+alt="Comunidade Libertaas"
+style="width:70px;height:70px;">
+
+</div>
+
+<h3>Comunidade Libertaas</h3>
+
+<p>
+Uma rede de apoio entre mulheres.
+</p>
+
+</div>
+
+</div>
+
+</div>
+
+</section>
+<!-- SOBRE -->
+
+<section class="sobre">
+
+<div class="conteudo">
+
+<h2>Quem é Márcia Ribeiro?</h2>
+
+<img src="https://i.ibb.co/Wpx6sQnZ/xk-Li-CXuq6b3agxb-St-Qyh-Uy-PSISTE-LNBazb-QPd-ZL1t-Avgml-ZMQfy-Xt-VL2-Ea-COLPVb1-Qb-Uh-R2c2n-RCz-DKo29.jpg"
+alt="Comunidade feminina Instituto Libertaas"
+style="
+display:block;
+width:100%;
+max-width:420px;
+height:auto;
+margin:30px auto;
+border-radius:20px;
+">
+
+<p style="
+font-size:22px;
+line-height:1.9;
+text-align:justify;
+">
+
+<strong>Márcia Ribeiro</strong> é Administradora,
+Terapeuta Familiar e de Casal, Pesquisadora de
+Inteligência Emocional e Neurociência desde 2014.
+
+<br><br>
+
+Desde 2014 atua com desenvolvimento humano,
+ajudando mulheres a reconstruírem sua autoestima
+e identidade emocional.
+
+<br><br>
+
+Criadora do Instituto Libertaas, seu propósito é
+conduzir mulheres ao processo de autocura e
+autoconhecimento.
+
+</p>
+
+</div>
+
+</section><!-- ========================= -->
+<!-- SLOGAN -->
+<!-- ========================= -->
+
+<section class="slogan">
+
+<div class="conteudo slogan-container">
+
+<img
+src="https://i.ibb.co/1p3T6Sp/luxury-feminine-signature-removebg-preview.png"
+alt="Mulheres Curadas. Filhos Sarados. Gerações Transformadas."
+class="img-slogan">
+    
+<img
+src="./assets/logooficial2.png"
+class="logo"
+alt="Libertaas"
+style="width:280px;max-width:80%;display:block;margin:0 auto;">
+
+</div>
+
+</section><!-- INTRODUÇÃO -->
+
+<section class="introducao">
+
+<div class="conteudo">
+
+<h2>
+Você não precisa fazer 
+essa caminhada sozinha.
+</h2>
+
+<p style="font-size:22px;line-height:1.9;text-align:justify;">
+
+Durante 30 dias você será acompanhada em uma jornada de transformação emocional, com encontros ao vivo, desafios e suporte diário.
+É hora de olhar para você, reconstruir sua identidade e sair do ciclo da dependência emocional.
+
+</p>
+
+<a href="https://pay.hotmart.com/U106577321Q?off=qzjy54fc&bid=1783477115113"
+class="botao2">
+
+
+QUERO INICIAR MINHA TRANSFORMAÇÃO
+
+</a>
+
+</div>
+
+</div>
+
+</section>
+
+<!-- CTA -->
+
+<section class="cta">
+
+<div class="conteudo">
+<img src="https://i.ibb.co/cK9FnjY8/jornada1-convertido-de-jfif.jpg"
+alt="Jornada de transformação Libertaas"
+style="
+display:block;
+width:100%;
+max-width:420px;
+height:auto;
+margin:35px auto;
+border-radius:20px;
+">
+<h2>
+Sua transformação começa agora
+</h2>
+
+<p>
+O Libertaas foi criado para mulheres que decidiram
+mudar sua história emocional.
+</p>
+
+<br><br>
+
+<a href="https://pay.hotmart.com/U106577321Q?off=qzjy54fc&bid=1783477115113"
+class="botao3">
+
+QUERO FAZER PARTE DO LIBERTAAS
+
+</a>
+
+</div>
+
+</section>
+<!-- ========================= -->
+<!-- DEPOIMENTOS -->
+<!-- ========================= -->
+
+<section class="programa">
+
+<div class="conteudo">
+
+<h2>
+Mais de uma mentoria.<br>
+Uma transformação de vida.
+</h2>
+
+<p style="text-align:center;max-width:850px;margin:0 auto 50px;font-size:22px;line-height:1.8;">
+
+Centenas de mulheres já começaram a reconstruir sua autoestima, compreender seus padrões emocionais e transformar seus relacionamentos através do Método Libertaas.
+
+</p>
+
+<div class="cards">
+
+<div class="card">
+
+<div style="font-size:28px;letter-spacing:3px;color:#D4AF37;margin-bottom:12px;">
+★★★★★
+</div>
+
+<p style="font-style:italic;line-height:1.9;">
+
+"O Libertaas me fez entender por que eu sempre atraía relacionamentos tóxicos. Pela primeira vez compreendi a origem da minha dor. Hoje consigo me posicionar, me valorizar e viver com muito mais paz."
+
+</p>
+
+<br>
+
+<h3 style="margin-bottom:5px;">
+Carmen Silva
+</h3>
+
+<p style="color:#777;">
+Aluna Libertaas
+</p>
+
+</div>
+
+<div class="card">
+
+<div style="font-size:28px;letter-spacing:3px;color:#D4AF37;margin-bottom:12px;">
+★★★★★
+</div>
+
+<p style="font-style:italic;line-height:1.9;">
+
+"Eu vivia tentando agradar todo mundo e me anulava completamente. A mentoria me ensinou que amor-próprio não é egoísmo. Hoje consigo colocar limites sem culpa."
+
+</p>
+
+<br>
+
+<h3 style="margin-bottom:5px;">
+Joana Rodrigues
+</h3>
+
+<p style="color:#777;">
+Aluna Libertaas
+</p>
+
+</div>
+
+<div class="card">
+
+<div style="font-size:28px;letter-spacing:3px;color:#D4AF37;margin-bottom:12px;">
+★★★★★
+</div>
+
+<p style="font-style:italic;line-height:1.9;">
+
+"Aprendi conteúdos que nunca ouvi em lugar nenhum. Enfrentei meus traumas com acompanhamento durante todo o processo e consegui iniciar uma verdadeira cura emocional."
+
+</p>
+
+<br>
+
+<h3 style="margin-bottom:5px;">
+Marcela Santos
+</h3>
+
+<p style="color:#777;">
+Aluna Libertaas
+</p>
+
+</div>
+
+</div>
+
+<div style="margin-top:60px;background:#fff5f7;border-radius:20px;padding:40px;box-shadow:0 10px 25px rgba(0,0,0,.08);">
+
+<h2 style="text-align:center;">
+Você também pode viver essa transformação.
+</h2>
+
+<p style="font-size:22px;line-height:1.9;text-align:justify;">
+A maior mudança não acontece quando outra pessoa muda.
+
+Ela acontece quando <strong>você compreende sua história, cura suas feridas emocionais e assume o protagonismo da própria vida.</strong>
+
+É exatamente esse caminho que percorremos durante os 30 dias da Mentoria Libertaas.
+
+</p>
+
+</div>
+
+</div>
+
+</section>
+<!-- ========================= -->
+<!-- GARANTIA -->
+<!-- ========================= -->
+
+<section class="introducao">
+
+<div class="conteudo">
+<div style="text-align:center;margin-bottom:35px;">
+
+<img src="https://i.ibb.co/bgBXzLqF/metallic-gold-white-design-transparent-background.jpg"
+alt="Garantia de 7 dias"
+style="max-width:300px;width:100%;height:auto;"
+
+</div>
+<h2 style="font-size:42px;color:#8C3E58;text-align:center;">
+
+Sua inscrição está protegida.
+
+</h2>
+
+<h3 style="font-size:28px;text-align:center;color:#B58A2F;margin-top:10px;">
+
+Garantia Incondicional de 7 Dias
+
+</h3>
+
+<p style="font-size:22px;line-height:1.9;text-align:justify;">
+
+Quero que você entre para a Mentoria Libertaas com absoluta tranquilidade.
+
+Você terá <strong>7 dias para conhecer a plataforma, assistir às aulas e iniciar sua transformação.</strong>
+
+Se dentro desse período entender que a mentoria não faz sentido para você, basta solicitar o cancelamento diretamente pela Hotmart e receberá <strong>100% do seu investimento de volta.</strong>
+
+Sem burocracia.
+
+Sem perguntas.
+
+O risco é totalmente meu.
+
+</p>
+</div>
+
+</section>
+
+
+
+<!-- ========================= -->
+<!-- TUDO O QUE VOCÊ RECEBE -->
+<!-- ========================= -->
+
+<section class="programa">
+
+<div class="conteudo">
+<img src="https://i.ibb.co/4ZY78yQ5/libertaas7-convertido-de-jfif.jpg"
+alt="Transformação Instituto Libertaas"
+style="
+display:block;
+width:100%;
+max-width:420px;
+height:auto;
+margin:35px auto;
+border-radius:20px;
+">
+<h2>Seu investimento retorna em forma de transformação</h2>
+
+<p style="text-align:center;font-size:22px;max-width:900px;margin:0 auto 50px;line-height:1.8;">
+
+Ao entrar para a Mentoria Libertaas você não recebe apenas aulas.
+Você terá acompanhamento, ferramentas práticas, exercícios, materiais exclusivos e uma metodologia criada para ajudá-la a reconstruir sua identidade emocional.
+
+</p>
+
+<div style="background:#ffffff;border-radius:20px;padding:40px;box-shadow:0 10px 30px rgba(0,0,0,.08);max-width:850px;margin:auto;">
+
+<div style="display:flex;justify-content:space-between;border-bottom:1px solid #eee;padding:18px 0;">
+<span>Mentoria Libertaas – 30 dias</span>
+<strong>R$ 1.997,00</strong>
+</div>
+
+<div style="display:flex;justify-content:space-between;border-bottom:1px solid #eee;padding:18px 0;">
+<span>Ferramentas de Coach</span>
+<strong>R$ 97,00</strong>
+</div>
+
+<div style="display:flex;justify-content:space-between;border-bottom:1px solid #eee;padding:18px 0;">
+<span>Monitoramento Diário</span>
+<strong>R$ 1.500,00</strong>
+</div>
+
+<div style="display:flex;justify-content:space-between;border-bottom:1px solid #eee;padding:18px 0;">
+<span>Conteúdos Exclusivos (12 meses)</span>
+<strong>R$ 497,00</strong>
+</div>
+
+<div style="display:flex;justify-content:space-between;border-bottom:1px solid #eee;padding:18px 0;">
+<span>Anamnese Emocional*</span>
+<strong>R$ 297,00</strong>
+</div>
+
+<div style="padding:30px 0;text-align:center;">
+
+<p style="font-size:18px;color:#777;">
+Valor total dos benefícios
+</p>
+
+<h2 style="font-size:48px;color:#B58A2F;margin:0;">
+R$ 4.388,00
+</h2>
+
+<p style="
+margin-top:25px;
+font-size:22px;
+color:#666;
+font-weight:500;
+">
+
+Comece sua transformação por apenas
+
+<div class="preco-parcela">
+
+    <div class="vezes">
+        12x
+    </div>
+
+    <div class="linha-preco">
+
+        <span class="moeda">
+            R$
+        </span>
+
+        <span class="valor">
+            29,68
+        </span>
+
+    </div>
+
+</div>
+
+<p style="
+font-size:24px;
+color:#8C3E58;
+font-weight:600;
+margin-bottom:20px;
+text-align:center;
+">
+
+ou <strong>R$ 287,00 à vista</strong>
+
+</p>
+<p style="
+font-size:20px;
+color:#666;
+line-height:1.7;
+margin-bottom:35px;
+">
+
+Menos de <strong style="color:#18C75A;">R$ 1,00 por dia</strong> para interromper um ciclo que talvez custe sua paz há anos.
+
+</p>
+
+<a href="https://pay.hotmart.com/U106577321Q?off=qzjy54fc&bid=1783477115113"
+class="botao2">
+
+QUERO INICIAR MINHA TRANSFORMAÇÃO
+
+</a>
+
+<p style="
+margin-top:22px;
+font-size:16px;
+color:#666;
+">
+
+<img
+src="https://i.ibb.co/rK0zDm1k/padlock-icon-minimalist-removebg-preview.png"
+alt="Pagamento Seguro"
+style="width:22px;height:22px;vertical-align:middle;margin-right:8px;">
+
+Pagamento 100% seguro pela Hotmart
+
+</p>
+
+<p style="
+margin-top:18px;
+font-size:15px;
+color:#777;
+line-height:1.7;
+">
+
+*O Diagnóstico Emocional poderá ser agendado após o período de garantia de 7 dias.
+
+</p></div>
+
+</div>
+
+</div>
+</section>
+<!-- ========================= -->
+<!-- BÔNUS EXCLUSIVOS -->
+<!-- ========================= -->
+
+<section class="sobre">
+
+<div class="conteudo">
+
+<h2 style="text-align:center;">
+<div style="text-align:center;margin-bottom:50px;">
+
+<img src="https://i.ibb.co/XfKdnyQ6/gift-box-minimalist-icon-removebg-preview.png"
+alt="Bônus"
+style="width:200px;height:200px;"></div> E ainda tem mais...
+</h2>
+
+<p style="font-size:22px;line-height:1.9;text-align:center;max-width:900px;margin:auto;">
+
+Ao confirmar sua inscrição hoje, você também receberá um presente especial que poderá acelerar sua transformação desde o primeiro dia.
+
+</p>
+
+<br><br>
+
+<div style="background:#fff5f5;border-left:8px solid #b05b73;padding:35px;border-radius:18px;box-shadow:0 8px 20px rgba(0,0,0,.08);">
+
+<h2 style="color:#b05b73;text-align:center;">
+
+<div style="text-align:center;margin-bottom:20px;">
+
+<img src="https://i.ibb.co/XfKdnyQ6/gift-box-minimalist-icon-removebg-preview.png"
+alt="Bônus"
+style="width:200px;height:200px;"></div> BÔNUS EXCLUSIVO
+
+</h2>
+
+<h3 style="text-align:center;font-size:34px;">
+
+Diagnóstico Emocional Completo
+
+</h3>
+
+<p style="font-size:22px;line-height:1.9;">
+
+Antes mesmo de iniciar sua jornada, você fará um verdadeiro <strong>Raio-X da sua vida emocional.</strong>
+
+</p>
+
+<p style="font-size:22px;line-height:1.9;">
+
+Esse diagnóstico ajudará você a identificar:
+
+</p>
+
+<ul style="
+font-size:21px;
+line-height:2;
+text-align:left;
+max-width:850px;
+margin:30px auto;
+padding-left:35px;">
+
+<li>✔ As raízes da sua dependência emocional.</li>
+
+<li>✔ Os padrões que fazem você repetir os mesmos relacionamentos.</li>
+
+<li>✔ As feridas emocionais que ainda influenciam suas decisões.</li>
+
+<li>✔ O que está impedindo você de viver relacionamentos saudáveis.</li>
+
+<li>✔ Quais áreas precisam ser fortalecidas durante a mentoria.</li>
+
+</ul>
+
+<p style="
+font-size:22px;
+line-height:1.9;
+text-align:justify;
+max-width:850px;
+margin:30px auto;">
+
+
+Porque toda transformação começa pelo conhecimento.
+
+Quando você entende a origem da dor, encontra o caminho para uma mudança definitiva.
+
+</p>
+
+<h2 style="text-align:center;color:#b05b73;">
+
+Valor deste bônus:
+<s>R$ 297,00</s>
+
+<br><br>
+
+<strong style="font-size:42px;color:#27ae60;">
+
+HOJE: GRATUITO
+
+</strong>
+
+</h2>
+
+</div>
+
+<br><br>
+
+<h2 style="text-align:left;font-size:36px;color:#8C3E58;">
+
+<h2 style="
+font-size:38px;
+font-weight:700;
+color:#8C3E58;
+text-align:left;
+max-width:780px;
+margin:0 auto 35px auto;
+line-height:1.4;
+">
+
+Imagine como será sua vida daqui a alguns meses...
+
+</h2>
+
+<p style="
+font-size:22px;
+line-height:2;
+text-align:left;
+max-width:780px;
+margin:0 auto;
+color:#555555;
+">
+
+Imagine acordar sentindo paz.<br><br>
+
+Sem medo de ser abandonada.<br><br>
+
+Sem precisar implorar por amor.<br><br>
+
+Sem se anular para manter um relacionamento.<br><br>
+
+Com autoestima fortalecida.<br><br>
+
+Sabendo exatamente quem você é.<br><br>
+
+Vivendo relações muito mais saudáveis.<br><br>
+
+<strong style="color:#8C3E58;">
+Essa transformação começa com uma única decisão.
+</strong>
+
+<br><br>
+
+<strong style="font-size:24px;color:#8C3E58;">
+A decisão de escolher você.
+</strong>
+
+</p>
+</section>
+
+
+
+<!-- ========================= -->
+<!-- CTA FINAL -->
+<!-- ========================= -->
+
+<section class="cta">
+
+<div class="conteudo">
+
+<h2 style="font-size:36px;color:#FFFFFF;">
+
+<img src="https://i.ibb.co/VcMcVkRh/white-gold-flower-removebg-preview.png"
+alt="Flor dourada"
+style="width:70px;height:70px;vertical-align:middle;margin-right:10px;">
+Chegou a sua hora.
+
+</h2>
+
+</h2>
+
+<p style="
+font-size:22px;
+line-height:1.9;
+text-align:justify;
+color:#FFFFFF;
+max-width:780px;
+margin:0 auto 30px auto;
+">
+
+Você passou muito tempo tentando mudar os outros.
+
+Agora chegou o momento de investir em quem realmente pode transformar a sua história: <strong>você.</strong>
+
+Imagine como será viver com autoestima fortalecida, paz emocional e relacionamentos mais saudáveis.
+
+A decisão começa hoje.
+
+</p>
+
+<ul class="lista-beneficios">
+
+    <li><span class="check">✓</span> 30 dias de acompanhamento</li>
+
+    <li><span class="check">✓</span> Comunidade exclusiva</li>
+
+    <li><span class="check">✓</span> Ferramentas práticas</li>
+
+    <li><span class="check">✓</span> Bônus exclusivos</li>
+
+    <li><span class="check">✓</span> Garantia de 7 dias</li>
+
+</ul>
+
+<br>
+
+<h2 style="
+font-size:36px;
+font-weight:700;
+color:#FFFFFF;
+text-align:center;
+line-height:1.5;
+max-width:900px;
+margin:40px auto;
+">
+
+Seu investimento é muito menor do que o preço de continuar vivendo os mesmos padrões emocionais.
+
+</h2>
+<div class="preco-parcela preco-marrom">
+
+    <div class="vezes">
+        12x
+    </div>
+
+    <div class="linha-preco">
+
+        <span class="moeda">
+            R$
+        </span>
+
+        <span class="valor">
+            29,68
+        </span>
+
+    </div>
+
+</div>
+
+<p style="
+font-size:24px;
+color:#ffffff;
+font-weight:600;
+margin-bottom:20px;
+text-align:center;
+">
+
+ou <strong>R$ 287,00 à vista</strong>
+
+</p>
+<br>
+
+<a href="https://pay.hotmart.com/U106577321Q?off=qzjy54fc&bid=1783477115113"
+class="botao3">
+
+QUERO INICIAR MINHA TRANSFORMAÇÃO
+
+</a>
+
+<br><br>
+
+<p style="font-size:18px;opacity:.9;">
+
+<img src="https://i.ibb.co/rK0zDm1k/padlock-icon-minimalist-removebg-preview.png"
+alt="Pagamento seguro"
+style="width:22px;height:22px;vertical-align:middle;margin-right:8px;">
+
+Pagamento 100% seguro pela Hotmart<br>
+
+Acesso imediato após a confirmação da compra.
+
+</p>
+
+</div>
+
+</section>
+  <!-- ========================= -->
+<!-- PERGUNTAS FREQUENTES -->
+<!-- ========================= -->
+
+<section class="sobre">
+
+<div class="conteudo">
+
+<h2 style="text-align:center;color:#8C3E58;font-size:42px;">
+Perguntas Frequentes
+</h2>
+
+<p style="text-align:center;font-size:22px;color:#666;max-width:850px;margin:20px auto 50px;">
+Antes de iniciar sua jornada, veja as respostas para as dúvidas mais comuns.
+</p>
+
+<div style="background:#fff;border-radius:20px;padding:40px;box-shadow:0 10px 30px rgba(0,0,0,.08);text-align:left;">
+
+<h3 style="
+color:#8C3E58;
+margin-bottom:12px;
+margin-left:0;
+padding-left:0;
+text-align:left;
+">Quanto tempo terei acesso à Mentoria?</h3>
+
+<p style=" line-height:1.9; text-align:justify; margin-top:0; margin-left:0; padding-left:0; ">
+Você terá acesso ao conteúdo da Mentoria Libertaas por <strong>12 meses</strong> através da plataforma Hotmart. Durante esse período poderá assistir às aulas quantas vezes desejar, no seu ritmo.
+</p>
+
+<hr style="margin:30px 0;">
+
+<h3 style="
+color:#8C3E58;
+margin-bottom:12px;
+margin-left:0;
+padding-left:0;
+text-align:left;
+">As aulas ficam gravadas?</h3><p style="
+line-height:1.9;
+text-align:justify;
+margin-top:0;
+margin-left:0;
+padding-left:0;
+">Sim. Todas as aulas ficam gravadas na Hotmart para que você possa rever sempre que precisar durante os 12 meses de acesso.
+</p>
+
+<hr style="margin:30px 0;">
+
+<h3 style="
+color:#8C3E58;
+margin-bottom:12px;
+margin-left:0;
+padding-left:0;
+text-align:left;
+">Como funciona a garantia?</h3>
+
+<p style="
+line-height:1.9;
+text-align:justify;
+margin-top:0;
+margin-left:0;
+padding-left:0;
+">Você possui <strong>7 dias de garantia incondicional</strong>. Se nesse período perceber que a mentoria não atende às suas expectativas, basta solicitar o reembolso diretamente pela Hotmart e receberá <strong>100% do valor investido</strong>, conforme a política da plataforma.
+</p>
+
+<hr style="margin:30px 0;">
+
+<h3 style="
+color:#8C3E58;
+margin-bottom:12px;
+margin-left:0;
+padding-left:0;
+text-align:left;
+">Quando receberei o Diagnóstico Emocional Completo?</h3>
+
+<p style="
+line-height:1.9;
+text-align:justify;
+margin-top:0;
+margin-left:0;
+padding-left:0;
+">O Diagnóstico Emocional Completo é um bônus exclusivo da mentoria. Após o término do período de garantia de 7 dias, um link será liberado na plataforma para que você possa agendar seu atendimento individual.
+</p>
+
+<p style="
+line-height:1.9;
+text-align:justify;
+margin-top:0;
+margin-left:0;
+padding-left:0;
+">Essa organização permite dedicar o atendimento às alunas que decidiram permanecer na jornada, garantindo um acompanhamento mais próximo e personalizado.
+</p>
+
+<hr style="margin:30px 0;">
+
+<h3 style="
+color:#8C3E58;
+margin-bottom:12px;
+margin-left:0;
+padding-left:0;
+text-align:left;
+">Como entro no Grupo Exclusivo da Mentoria?</h3>
+
+<p style="
+line-height:1.9;
+text-align:justify;
+margin-top:0;
+margin-left:0;
+padding-left:0;
+">Após a confirmação do pagamento, acesse a Aula 2 da plataforma. Lá você encontrará todas as orientações para enviar seu nome completo e o código do pedido. Nossa equipe fará a validação e enviará seu acesso ao Grupo Exclusivo da Mentoria Libertaas.
+</p>
+
+<hr style="margin:30px 0;">
+
+<h3 style="
+color:#8C3E58;
+margin-bottom:12px;
+margin-left:0;
+padding-left:0;
+text-align:left;
+">Preciso participar ao vivo?</h3>
+
+<p style="
+line-height:1.9;
+text-align:justify;
+margin-top:0;
+margin-left:0;
+padding-left:0;
+">Não. Recomendamos participar ao vivo sempre que possível, mas caso não consiga, todas as aulas permanecerão gravadas em até 48 h após a sessão para você assistir quando desejar.
+</p>
+
+<hr style="margin:30px 0;">
+
+<h3 style="
+color:#8C3E58;
+margin-bottom:12px;
+margin-left:0;
+padding-left:0;
+text-align:left;
+">Esta mentoria é indicada para quem?</h3>
+
+<p style="
+line-height:1.9;
+text-align:justify;
+margin-top:0;
+margin-left:0;
+padding-left:0;
+">A Mentoria Libertaas foi criada para mulheres que desejam fortalecer sua autoestima, compreender seus padrões emocionais, superar a dependência emocional e construir relacionamentos mais saudáveis, começando pelo relacionamento consigo mesmas.
+</p>
+
+<hr style="margin:30px 0;">
+
+<h3 style="
+color:#8C3E58;
+margin-bottom:12px;
+margin-left:0;
+padding-left:0;
+text-align:left;
+">Nunca fiz terapia. Posso participar?</h3>
+
+<p style="
+line-height:1.9;
+text-align:justify;
+margin-top:0;
+margin-left:0;
+padding-left:0;
+">Sim. A mentoria foi desenvolvida para acolher mulheres em diferentes momentos da vida. Você receberá conteúdos práticos, exercícios e direcionamentos que poderão ser aplicados desde o primeiro dia.
+</p>
+
+<hr style="margin:30px 0;">
+
+<h3 style="
+color:#8C3E58;
+margin-bottom:12px;
+margin-left:0;
+padding-left:0;
+text-align:left;
+">Quando receberei o acesso?</h3>
+
+<p style="
+line-height:1.9;
+text-align:justify;
+margin-top:0;
+margin-left:0;
+padding-left:0;
+">O acesso é liberado automaticamente pela Hotmart após a confirmação do pagamento. Você receberá um e-mail com todas as instruções para entrar na plataforma e iniciar sua transformação.
+</p>
+
+</div>
+
+<div style="margin-top:50px;background:#FFF8F2;border-left:6px solid #B58A2F;padding:30px;border-radius:15px;">
+
+<h3 style="color:#8C3E58;font-size:36px;font-weight:700;text-align:center;margin-top:0;">
+
+<img src="https://i.ibb.co/tP2kSNQN/minimalist-heart-icon-removebg-preview.png"
+alt="Coração"
+style="width:50px;height:50px;vertical-align:middle;margin-right:10px;">
+
+Uma mensagem para você...
+
+</h3>
+
+<p style="font-size:22px;line-height:1.9;text-align:justify;">
+
+Talvez você tenha chegado até aqui carregando anos de dores, frustrações e tentando encontrar respostas para o que viveu.
+
+A Mentoria Libertaas não promete uma mudança mágica da noite para o dia.
+
+Ela oferece um caminho de autoconhecimento, fortalecimento emocional e reconstrução da autoestima, para que você possa desenvolver novas formas de se relacionar consigo mesma e com as pessoas ao seu redor.
+
+Se você sente que este é o momento de investir em si, será uma alegria caminhar ao seu lado durante essa jornada.
+
+</p>
+
+</div>
+
+</div>
+
+<section class="ultima-chamada" style="
+text-align:center;
+padding:50px 20px;
+background:#ffffff;
+">
+
+<h2 style="
+font-size:32px;
+color:#8b5a3c;
+margin-bottom:20px;
+">
+
+<img src="https://i.ibb.co/GfJkQb3B/image.webp"
+alt="Encontros ao Vivo"
+style="
+width:40px;
+height:40px;
+vertical-align:middle;
+margin-right:8px;
+">
+
+Sua Última Oportunidade de Entrar na Mentoria Libertaas 
+com Todos Esses Bônus
+
+</h2>
+
+<p style="
+font-size:20px;
+color:#555;
+max-width:700px;
+margin:0 auto 30px;
+line-height:1.6;
+text-align:justify;
+">
+
+Você chegou até aqui porque existe uma parte sua pronta para viver uma nova história.<br><br>
+
+Garanta agora sua vaga na <strong>Mentoria Libertaas</strong> e receba também o bônus exclusivo — disponíveis por tempo limitado.
+
+</p>
+
+<a href="https://pay.hotmart.com/U106577321Q?off=qzjy54fc&bid=1783477586758"
+target="_blank"
+class="botao3">
+
+QUERO ENTRAR NA MENTORIA AGORA E GARANTIR MEU BÔNUS
+
+</a>
+
+<p style="
+margin-top:25px;
+font-size:15px;
+color:#777;
+">
+
+Clique no botão acima e finalize sua inscrição.
+
+</p>
+
+</section>
+<!-- RODAPÉ -->
+
+<footer>
+
+<div class="conteudo">
+
+<p><strong>Libertaas</strong></p>
+
+<p>
+Mulheres curadas.
+Filhos livres.
+Gerações transformadas.
+</p>
+
+<p>
+© 2026 Todos os direitos reservados.
+</p>
+
+</div>
+
+</footer>
+
+</body>
+</html>
